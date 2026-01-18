@@ -1,4 +1,4 @@
-# KDE-rices
+# KDE-rices <h1 align="center"> KDE-rices</h1>
 List of my KDE rices. To import, use [konsave](https://github.com/Prayag2/konsave?tab=readme-ov-file)
 
 ### [Pixeldark](https://github.com/syubaru/KDE-rices/releases/download/v1.0/pixeldark.knsv) (placeholder name)
