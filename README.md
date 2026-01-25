@@ -5,5 +5,6 @@ List of my KDE rices. To import, use [konsave](https://github.com/Prayag2/konsav
 ---
 
 ### [Pixeldark](https://github.com/syubaru/KDE-rices/releases/download/v1.0/pixeldark.knsv) (placeholder name)
-<img width="2560" height="1440" width=49% alt="image" src="https://github.com/user-attachments/assets/0113c91b-6d18-4b3b-bcab-75c01ca2c62a" /> <img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/1fc9591a-7111-4da8-b36c-08bfb72c7b9f" />
+<img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/20c137a7-0c7b-41fb-a932-908f4086db17" />
+<img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/5ffb21c6-c104-45aa-ac6d-139a336d1402" />
 
