@@ -6,5 +6,4 @@ List of my KDE rices. To import, use [konsave](https://github.com/Prayag2/konsav
 
 | [**Pixel**](https://github.com/syubaru/KDE-rices/blob/main/Pixel) |
 | :---: |
-| <img src="https://github.com/user-attachments/assets/20c137a7-0c7b-41fb-a932-908f4086db17" width="400"> |
-
+| <img src="https://github.com/user-attachments/assets/5ffb21c6-c104-45aa-ac6d-139a336d1402" width="400"> |
